@@ -1,2 +1,0 @@
-[deploy]
-startCommand = "gunicorn license:app --bind 0.0.0.0:$PORT"
